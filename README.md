@@ -9,7 +9,7 @@ sierpinski_triangle.py contains the base code for this program. It draws the
 illusion in black and white lines at a set size in the code. The size and location
 of the Sierpinski Triangle can be changed on line #21. 
 
-sierpinski-color.py is a version of sierpinski_triangle.py but with color and 
+sierpinski-color.py is a version of sierpinski_triangle.py, but with color and 
 filled-in triangles
 
 
